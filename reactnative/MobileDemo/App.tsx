@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import {Counter} from './app/shared/components/counter';
+import {Counter} from './shared/components/counter';
 
 const App = () => {
   const isDarkMode = useColorScheme() === 'dark';

@@ -16,8 +16,18 @@ Slack and Discord on the other hand are examples of really well executed Electro
 
 ### React native
 
-As metioned before I have used React native in the past but I have never used it to create a web application, I've only used it with Expo to create a mobile application.
+As metioned before I have used React native in the past but I have never used it to create a web application, I've only used it with Expo to create a mobile application. For that reson I wanted to try to make an app that works both on mobile and web with the same components. That turned out to be easier then I thought and I will definetly use it in future projects!
 
 ## Crossplatform app
 
-Since I have only created a mobile app with react native + expo I thought it would be fun to try to create a project that works as a web application, mobile app and desktop application. Since React native doesn't have a desktop application option I deployed the React native web application as a desktop app using Electron.
+Since I have only created a mobile app with react native + expo I thought it would be fun to try to create a project that works as a web application and mobile app using the same components. I watch a [video](https://youtu.be/2wOvhDtqsW8) on this matter, in the video she uses a symlink to have the components shared, that wasn't working for me so I ended up copy-pasting the component into the web project. Altough for future project I would like to have the symlink to have a single source of truth for the components. This app could for sure also be deployed as a desktop app using electron, that could be a cool addition!
+
+Here is the app in action:
+
+![Gif of the app open on a iPhone simulator and in web](./sharedComponent.gif)
+
+## Conclusion
+
+I really like Electron for it's simplicity, you can have any web app running as a desktop app in a very short time.
+
+React Native is really nice to use since you don't really have to think about styling native components, and being able to use the same components across platforms is really nice!
