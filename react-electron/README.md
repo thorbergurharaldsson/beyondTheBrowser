@@ -1,9 +1,9 @@
 # Electron with yarn create react-app
 
-To run this app you need to run both:
+To run this app you need to run:
 
-install dependencies with: `yarn add`
+Install dependencies with: `yarn add`
 
 React app with: `yarn start`
 
-The Electron with: `yarn run electron`
+Electron with: `yarn run electron`
