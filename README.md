@@ -18,6 +18,6 @@ Slack and Discord on the other hand are examples of really well executed Electro
 
 As metioned before I have used React native in the past but I have never used it to create a web application, I've only used it with Expo to create a mobile application.
 
-### Desktop apps
+## Crossplatform app
 
 Since I have only created a mobile app with react native + expo I thought it would be fun to try to create a project that works as a web application, mobile app and desktop application. Since React native doesn't have a desktop application option I deployed the React native web application as a desktop app using Electron.
