@@ -6,12 +6,12 @@
 
 Inside the ./MobileDemo folder, run these commands:
 
-- Install dependencies: `yarn add`
+- Install dependencies: `yarn install`
 - Run the IOS Simulator: `yarn run IOS`
 
 ## Running the app in web
 
 Inside the ./MobileDemo/web/ folder, run these commands:
 
-- Install dependencies: `yarn add`
+- Install dependencies: `yarn install`
 - Run the react-native-web: `yarn start`
