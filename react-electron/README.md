@@ -2,7 +2,7 @@
 
 To run this app you need to run:
 
-Install dependencies with: `yarn add`
+Install dependencies with: `yarn install`
 
 React app with: `yarn start`
 
