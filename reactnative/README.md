@@ -7,6 +7,7 @@
 Inside the ./MobileDemo folder, run these commands:
 
 - Install dependencies: `yarn install`
+- Install IOS dependencies: `cd ios` then `pod install`
 - Run the IOS Simulator: `yarn run IOS`
 
 ## Running the app in web
